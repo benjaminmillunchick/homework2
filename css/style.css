@@ -14,7 +14,8 @@ p {
 }
 
 body{
-    font-family: "Lucida Grande";
+    font-family: "Lucida Grande", Sans-Serif;
+
     background: #000000;
     color: #ffffff;
 }
